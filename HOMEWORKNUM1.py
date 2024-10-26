@@ -9,4 +9,3 @@ class Product:
 
 product12 = Product()
 product12.printer()
-
