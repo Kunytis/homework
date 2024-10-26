@@ -37,7 +37,6 @@ if guess != miku_number:
     print(f"uh oh! you ran out of attempts, the miku number was {miku_number}")
 
 
-
 # 4
 start = int(input("input start number ..."))
 finish = int(input("input ending number ..."))
